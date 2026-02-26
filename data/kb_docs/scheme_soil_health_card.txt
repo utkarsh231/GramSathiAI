@@ -1,0 +1,4 @@
+Soil Health Card (demo excerpt):
+- Soil test-based advisory.
+- Often coordinated via local agriculture offices/KVK.
+Farmers may need Aadhaar and farm location details.

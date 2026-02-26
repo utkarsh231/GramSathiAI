@@ -1,0 +1,6 @@
+General agronomy guidance (demo):
+- Soil pH < 5.5: consider liming; pH > 8 may reduce micronutrient availability.
+- Low Nitrogen (N): increase urea or organic manure; split application recommended.
+- Low Phosphorus (P): consider DAP/SSP based on soil type; incorporate in soil.
+- Low Potassium (K): consider MOP; apply as basal dose.
+Always consult local KVK/agri officer for region-specific dosage.

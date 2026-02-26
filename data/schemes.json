@@ -1,0 +1,41 @@
+[
+  {
+    "scheme_id": "PM_KISAN",
+    "name": "PM-KISAN",
+    "description": "Income support for eligible farmer families.",
+    "rules": {
+      "must_be_farmer": true,
+      "land_holding_required": true
+    },
+    "required_documents": [
+      "Aadhaar",
+      "Land records / Khatauni",
+      "Bank account details"
+    ],
+    "steps": [
+      "Collect Aadhaar + land records + bank details",
+      "Visit official portal or CSC center",
+      "Submit application and note acknowledgement number",
+      "Track status periodically"
+    ],
+    "kb_doc": "scheme_pm_kisan.txt"
+  },
+  {
+    "scheme_id": "SOIL_HEALTH_CARD",
+    "name": "Soil Health Card",
+    "description": "Soil testing & recommendations via Soil Health Card program.",
+    "rules": {
+      "must_be_farmer": true
+    },
+    "required_documents": [
+      "Aadhaar",
+      "Farm location details"
+    ],
+    "steps": [
+      "Contact local agriculture office / KVK for soil sample collection",
+      "Submit sample, receive Soil Health Card report",
+      "Use recommendations for nutrient application"
+    ],
+    "kb_doc": "scheme_soil_health_card.txt"
+  }
+]

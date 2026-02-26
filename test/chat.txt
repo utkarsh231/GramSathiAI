@@ -1,0 +1,7 @@
+
+	•	“My pH is 5.2. What should I do before sowing?”
+	•	“My report shows N=110, P=12, K=95. Give a fertilizer plan and schedule.”
+	•	“My soil is alkaline (pH 8.3). What problems can happen and what’s the fix?”
+	•	“Make the recommendation crop-specific for rice (or wheat/maize).”
+	•	“Explain your recommendation in simple steps for a farmer.”
+
