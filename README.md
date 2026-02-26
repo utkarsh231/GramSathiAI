@@ -9,6 +9,8 @@ This MVP helps users:
 
 > ⚠️ Demo-grade logic. Always validate with local KVK / agri experts before taking action.
 
+Tryout the Demo at ![here](https://gramsathiai-43eh8irqc3zkhsy4bxs5i4.streamlit.app) :)
+
 ---
 
 ## ✨ Features
@@ -42,7 +44,8 @@ This MVP helps users:
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Screenshotspip freeze > requirements.txt
+
 
 - Soil report upload + extraction  
   ![](images/soilreport1.png)
