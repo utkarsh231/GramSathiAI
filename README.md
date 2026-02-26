@@ -9,7 +9,7 @@ This MVP helps users:
 
 > ⚠️ Demo-grade logic. Always validate with local KVK / agri experts before taking action.
 
-Tryout the Demo at ![here](https://gramsathiai-43eh8irqc3zkhsy4bxs5i4.streamlit.app) :)
+Tryout the Demo at [here](https://gramsathiai-43eh8irqc3zkhsy4bxs5i4.streamlit.app) :)
 
 ---
 
