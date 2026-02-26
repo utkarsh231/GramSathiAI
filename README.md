@@ -44,22 +44,20 @@ This MVP helps users:
 
 ## 🖼️ Screenshots
 
-> If you keep screenshots in a `screenshots/` folder, these will render nicely on GitHub.
-
 - Soil report upload + extraction  
-  ![](screenshots/soilreport1.png)
+  ![](images/soilreport1.png)
 
 - Soil summary + fertilizer plan  
-  ![](screenshots/soilreport2.png)
+  ![](images/soilreport2.png)
 
 - Chat with grounded snippets + sources  
-  ![](screenshots/chat.png)
+  ![](images/chat.png)
 
 - Scheme eligibility inputs  
-  ![](screenshots/scheme1.png)
+  ![](images/scheme1.png)
 
 - Scheme result: missing docs + checklist + citations  
-  ![](screenshots/scheme2.png)
+  ![](images/scheme2.png)
 
 ---
 
